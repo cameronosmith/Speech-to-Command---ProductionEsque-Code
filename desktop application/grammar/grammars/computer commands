@@ -1,0 +1,1 @@
+{"grammarVocabulary":{"louder":"keyPress(KEY_CONTROL,KEY_SHIFT,KEY_EQUALS)","quiet":"keyPress(Meta,Equals)"},"grammarName":"computer commands","grammarOn":"true"}
